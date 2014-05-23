@@ -1,0 +1,44 @@
+.centeredImage {
+    
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    background-color: transparent;
+    border: none;
+    
+   
+    
+    
+    
+    
+    
+    
+    
+}
+#socialmediabuttons{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+
+body{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+    color: #323232;
+    background: #f7f5f0 url(/Images/background.png) no-repeat right top;
+    
+}
+
+#experience{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.info {
+    
+    margin-left: 185px;
+    margin-right: 185px;
+}
