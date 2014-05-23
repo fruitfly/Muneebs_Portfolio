@@ -1,0 +1,23 @@
+is ranged
+is Radiant
+is Strength
+is Intelligence
+does wield a weapon
+is human
+has facial hair
+is element based
+has legs
+does move through air
+does ride a mount
+is genderless
+is male
+is a carry
+is a disabler
+is an initiator
+is a jungler
+is a support
+is durable
+is a nuker.
+is a pusher
+has an escape
+is a lane support

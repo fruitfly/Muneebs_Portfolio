@@ -1,0 +1,4 @@
+Bob Marley 		91	5	4	yes	no	yes	no	yes
+Jesus Christ 		89	2	9	yes 	yes	yes	yes	yes
+Muneeb Ahmed		100	20	10	yes	yes	yes	yes	yes
+Barrack Obama		50	1	3	No	No	No	No	No   	

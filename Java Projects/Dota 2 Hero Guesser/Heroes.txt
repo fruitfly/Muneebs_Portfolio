@@ -1,0 +1,1329 @@
+Earthshaker
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is a lane support
+is an initiator
+is a support
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+is element based
+
+# Sven
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is an initiator
+is a support
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Tiny
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is durable
+is a nuker
+has legs
+does move on the ground
+is element based
+
+# Kunkka
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+is human
+has facial hair
+is element based
+
+# Beastmaster
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+is human
+has facial hair
+
+# Dragon Knight
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is durable
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Clockwerk
+is Radiant
+is male
+is Strength
+is melee
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Omniknight
+is Radiant
+is male
+is Strength
+is melee
+is a lane support
+is a support
+is durable
+has legs
+does move on the ground
+does 7 ride mount
+does wield a weapon
+is human
+has facial hair
+
+# Huskar
+is Radiant
+is male
+is Strength
+is ranged
+is a carry
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+
+# Alchemist
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is durable
+has legs
+does move on the ground
+does wield a weapon
+
+# Brewmaster
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is an initiator
+is durable
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Treant Protector
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is a lane support
+is an initiator
+is durable
+has legs
+does move on the ground
+has facial hair
+
+# Io
+is Radiant
+is genderless
+is Strength
+is ranged
+is a support
+is a lane support
+is a nuker
+does move through air
+
+# Centaur Warrunner
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Timbersaw
+is Radiant
+is male
+is Strength
+is melee
+is durable
+is a nuker
+has an escape
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+
+# Bristleback
+is Radiant
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weaponf
+
+# Tusk
+is Radiant
+is male
+is Strength
+is melee
+is an initiator
+is durable
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+is element based
+
+# Elder Titan
+is Radiant
+is male
+is Strength
+is melee
+is durable
+is an initiator
+has legs
+does move on the ground
+does wield a weapon
+
+# Legion Commander
+is Radiant
+is female
+is Strength
+is melee
+is a carry
+is durable
+has legs
+does move on ground
+does wield a weapon
+is human
+
+# Earth Spirit
+is Radiant
+is male
+is Strength
+is melee
+is a carry
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+# Phoneix
+is Radiant
+is genderless
+is Strength
+is ranged
+is a disabler
+is an initiator
+is a nuker
+does move through air
+is element based
+
+
+# Anti-Mage
+is Radiant
+is male
+is agility
+is melee
+is a carry
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Drow Ranger
+is Radiant
+is female
+is agility
+is ranged
+is a carry
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Juggernaut
+is Radiant
+is male
+is agility
+is melee
+is a carry
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Mirana
+is Radiant
+is female
+is agility
+is ranged
+is a carry
+is a disabler
+is a nuker
+has an escape
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+is human
+
+# Morphling
+is Radiant
+is male
+is agility
+is ranged
+is a carry
+is an initiator
+is a nuker
+has an escape
+does move on ground
+is element based
+
+# Phantom Lancer
+is Radiant
+is male
+is agility
+is melee
+is a carry
+is a pusher
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Vengeful Spirit
+is Radiant
+is female
+is agility
+is ranged
+is a disabler
+is a lane support
+is a support
+is an initiator
+has legs
+does move on the ground
+does wield a weapon
+
+# Riki
+is Radiant
+is male
+is agility
+is melee
+is a carry
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Sniper
+is Radiant
+is male
+is agility
+is ranged
+is a carry
+has legs
+does move on the ground
+does wield a weapon
+is human
+has facial hair
+
+# Templar Assassin
+is Radiant
+is female
+is agility
+is ranged
+is a carry
+has an escape
+has legs
+does move on ground
+does wield a weapon
+
+# Luna
+is Radiant
+is female
+is agility
+is ranged
+is a carry
+is a nuker
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+is human
+
+# Bounty Hunter
+is Radiant
+is male
+is agility
+is melee
+is a carry
+is a nuker
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+
+# Ursa
+is Radiant
+is male
+is agility
+is melee
+is a carry
+is a jungler
+is a support
+has legs
+does move on the ground
+
+# Gyrocopter
+is Radiant
+is male
+is agility
+is ranged
+is a disabler
+is an initiator
+is a nuker
+has legs
+does move through air
+does ride a mount
+does wield a weapon
+is human
+has facial hair
+
+# Lone Druid
+is Radiant
+is male
+is agility
+is ranged
+is a carry
+is a jungler
+is durable
+is a pusher
+has legs
+does move on the ground
+is human
+has facial hair
+
+# Naga Siren
+is Radiant
+is female
+is agility
+is melee
+is a carry
+is a disabler
+is a pusher
+has an escape
+does move on the ground
+does wield a weapon
+is element based
+
+# Troll Warlord
+is Radiant
+is male
+is agility
+is ranged
+is a carry
+has legs
+does move on the ground
+does wield a weapon
+
+# Ember Spirit
+is Radiant
+is male
+is agility
+is melee
+is a carry
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+
+# Crystal Maiden
+is Radiant
+is female
+is Intelligence
+is ranged
+is a disabler
+is a lane support
+is a support
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+is human
+is element based
+
+# Puck
+is Radiant
+is genderless
+is Intelligence
+is ranged
+is a disabler
+is an initiator
+is a nuker
+has an escape
+has legs
+does move through air
+
+# Storm Spirit
+is Radiant
+is male
+is Intelligence
+is ranged
+is a carry
+is a disabler
+is an initiator
+has an escape
+has legs
+does move on the ground
+has facial hair
+is element based
+
+# Windranger
+is Radiant
+is female
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Zeus
+is Radiant
+is male
+is Intelligence
+is ranged
+is a support
+is a nuker
+has legs
+does move on the ground
+is human
+has facial hair
+is element based
+
+# Lina
+is Radiant
+is female
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+has legs
+does move through air
+is human
+is element based
+
+# Shadow Shaman
+is Radiant
+is male
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+
+# Tinker
+is Radiant
+is male
+is Intelligence
+is ranged
+is a nuker
+is a pusher
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+is human
+has facial hair
+
+# Nature's Prophet
+is Radiant
+is male
+is Intelligence
+is ranged
+is a carry
+is a jungler
+is a pusher
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+
+# Enchantress
+is Radiant
+is female
+is Intelligence
+is ranged
+is a jungler
+is a support
+is durable
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+
+# Jakiro
+is Radiant
+is male
+is Intelligence
+is ranged
+is a lane support
+is a disabler
+is a nuker
+is a pusher
+has legs
+does move through air
+is element based
+
+# Chen
+is Radiant
+is male
+is Intelligence
+is ranged
+is a jungler
+is a support
+is a pusher
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+is human
+
+# Silencer
+is Radiant
+is male
+is Intelligence
+is ranged
+is a carry
+is a support
+is a lane support
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Ogre Magi
+is Radiant
+is male
+is Intelligence
+is melee
+is a disabler
+is durable
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+
+# Rubick
+is Radiant
+is male
+is Intelligence
+is ranged
+is a disabler
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+is human
+
+# Disruptor
+is Radiant
+is male
+is Intelligence
+is ranged
+is a disabler
+is an initiator
+is a support
+is a nuker
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+has facial hair
+is element based
+
+# Keeper of the Light
+is Radiant
+is male
+is Intelligence
+is ranged
+is a lane support
+is a support
+is a nuker
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+is human
+has facial hair
+
+# Skywrath Mage
+is Radiant
+is male
+is Intelligence
+is ranged
+is a support
+is a nuker
+has legs
+does move through air
+does wield a weapon
+
+# Axe
+is dire
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is a jungler
+is durable
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Pudge
+is dire
+is male
+is Strength
+is melee
+is a disabler
+is durable
+has legs
+does move on the ground
+does wield a weapon
+
+# Sand King
+is dire
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is a nuker
+has legs
+does move on the ground
+
+# Slardar
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is an initiator
+is durable
+does move on the ground
+does wield a weapon
+is element based
+
+# Tidehunter
+is dire
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is a support
+is durable
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+# Wraith King
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is durable
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Lifestealer
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a jungler
+is durable
+has an escape
+has legs
+does move on the ground
+
+# Night Stalker
+is dire
+is male
+is Strength
+is melee
+is an initiator
+is durable
+has legs
+does move on the ground
+
+# Doombringer
+is dire
+is male
+is Strength
+is melee
+is a carry
+is durable
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+# Spirit Breaker
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is an initiator
+is durable
+has legs
+does move on the ground
+has facial hair
+
+# Lycan
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a jungler
+is durable
+is a pusher
+has legs
+does move on the ground
+is human
+has facial hair
+
+# Chaos Knight
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is durable
+is a pusher
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+
+# Undying
+is dire
+is male
+is Strength
+is melee
+is a disabler
+is an initiator
+is durable
+is a pusher
+has legs
+does move on the ground
+
+# Magnus
+is dire
+is male
+is Strength
+is melee
+is a carry
+is a disabler
+is an initiator
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+
+# Abaddon
+is dire
+is male
+is Strength
+is melee
+has legs
+does move on the ground
+does ride a mount
+does wield a weapon
+
+
+# Bloodseeker
+is dire
+is male
+is agility
+is melee
+is a carry
+is a jungler
+has legs
+does move on the ground
+does wield a weapon
+
+# Shadow Fiend
+is dire
+is male
+is agility
+is ranged
+is a carry
+is a nuker
+does move on the ground
+
+# Razor
+is dire
+is male
+is agility
+is ranged
+is a carry
+is durable
+is a nuker
+does move through air
+does wield a weapon
+is element based
+
+# Venomancer
+is dire
+is male
+is agility
+is melee
+is an initiator
+is a support
+is a nuker
+is a pusher
+does move on the ground
+
+# Faceless Void
+is dire
+is male
+is agility
+is melee
+is a carry
+is a disabler
+is an initiator
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+
+
+# Phantom Assassin
+is dire
+is female
+is agility
+is melee
+is a carry
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+is human
+is element based
+
+# Viper
+is dire
+is male
+is agility
+is ranged
+is a carry
+is durable
+does move through air
+
+# Clinkz
+is dire
+is male
+is agility
+is ranged
+is a carry
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+# Broodmother
+is dire
+is female
+is agility
+is melee
+is a carry
+is a pusher
+has an escape
+has legs
+does move on the ground
+
+# Weaver
+is dire
+is male
+is agility
+is ranged
+is a carry
+has an escape
+has legs
+does move on the ground
+
+# Spectre
+is dire
+is female
+is agility
+is melee
+is a carry
+is durable
+does move on the ground
+does wield a weapon
+
+# Meepo
+is dire
+is male
+is agility
+is melee
+is a carry
+is a disabler
+is an initiator
+has legs
+does move on the ground
+does wield a weapon
+
+# Nyx Assassin
+is dire
+is male
+is agility
+is melee
+is a disabler
+is a nuker
+has legs
+does move on the ground
+
+# Slark
+is dire
+is male
+is agility
+is melee
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+is element based
+
+# Medusa
+is dire
+is female
+is agility
+is ranged
+is a carry
+does move on the ground
+does wield a weapon
+
+# Terrorblade
+is dire
+is male
+is agility
+is melee
+is a carry
+has legs
+does move on the ground
+does wield a weapon
+
+
+# Bane
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+has legs
+does move through air
+
+# Lich
+is dire
+is male
+is Intelligence
+is ranged
+is a lane support
+is a support
+is a nuker
+has legs
+does move through air
+has facial hair
+is element based
+
+# Lion
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a lane support
+is a support
+is a nuker
+has legs
+does move on the ground
+does wield a weapon
+
+# Witch Doctor
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a support
+has legs
+does move on the ground
+
+# Enigma
+is dire
+is genderless
+is Intelligence
+is ranged
+is a disabler
+is an initiator
+is a jungler
+is a pusher
+does move on the ground
+
+# Necrophos
+is dire
+is male
+is Intelligence
+is ranged
+is a carry
+is a support
+is durable
+has legs
+does move on the ground
+does wield a weapon
+has facial hair
+
+# Warlock
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a lane support
+is an initiator
+is a support
+has legs
+does move on the ground
+does wield a weapon
+is human
+has facial hair
+
+# Queen of Pain
+is dire
+is female
+is Intelligence
+is ranged
+is a carry
+is a nuker
+has an escape
+has legs
+does move on the ground
+does wield a weapon
+
+# Death Prophet
+is dire
+is female
+is Intelligence
+is ranged
+is durable
+is a nuker
+is a pusher
+has legs
+does move through air
+
+# Pugna
+is dire
+is male
+is Intelligence
+is ranged
+is a support
+is a nuker
+is a pusher
+has legs
+does move on the ground
+does wield a weapon
+
+# Dazzle
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a lane support
+is a support
+has legs
+does move on the ground
+does wield a weapon
+
+# Leshrac
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+is a pusher
+has legs
+does move on the ground
+
+has facial hair
+
+# Dark Seer
+is dire
+is male
+is Intelligence
+is melee
+is an initiator
+is a nuker
+has an escape
+has legs
+does move on the ground
+has facial hair
+
+# Batrider
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is an initiator
+is a nuker
+has an escape
+has legs
+does move through air
+does ride a mount
+is element based
+
+# Ancient Apparation
+is dire
+is genderless
+is Intelligence
+is ranged
+is a disabler
+is a support
+does move through air
+is elemental based
+
+# Invoker
+is dire
+is male
+is Intelligence
+is ranged
+is a carry
+is an initiator
+is a nuker
+has an escape
+has legs
+does move on the ground
+is human
+is element based
+
+# Outworld Devourer
+is dire
+is male
+is Intelligence
+is ranged
+is a carry
+has legs
+does move through air
+does wield a weapon
+
+# Shadow Demon
+is dire
+is male
+is Intelligence
+is ranged
+is a disabler
+is a support
+is a nuker
+has legs
+does move on the ground
+
+# Visage
+is dire
+is genderless
+is Intelligence
+is ranged
+is a disabler
+is durable
+is a nuker
+has legs
+does move through air

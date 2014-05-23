@@ -1,0 +1,8 @@
+7
+gorilla 
+mouse
+rhine
+dog
+clam
+elf
+snake
